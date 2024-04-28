@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erospereira/CSE-341-Project1.git"
+  },
+  "author": "Eros Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erospereira/CSE-341-Project1/issues"
+  },
+  "homepage": "https://github.com/erospereira/CSE-341-Project1#readme"
+}
