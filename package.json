@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erospereira/CSE-341-Project1/issues"
   },
-  "homepage": "https://github.com/erospereira/CSE-341-Project1#readme"
+  "homepage": "https://github.com/erospereira/CSE-341-Project1#readme",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
 }
